@@ -28,7 +28,7 @@ docker run -d -p 8080:8080 -e ANTHROPIC_API_KEY="your-key" ghcr.io/insaanimanav/
 **Or clone and run:**
 ```bash
 git clone https://github.com/insaanimanav/promptforge.git
-cd promptforge && ./start.sh
+cd prompt-forge && ./start.sh
 ```
 
 Open `http://localhost:8080` and start crafting better prompts.
